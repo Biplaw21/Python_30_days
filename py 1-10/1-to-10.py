@@ -12,7 +12,7 @@ print("hello world. hello man")
 # In[7]:
 
 
-print(2+3) 
+# print(2+3) 
 
 
 # # python comments
